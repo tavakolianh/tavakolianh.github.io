@@ -106,6 +106,15 @@ content:
           <span style="font-size: 16px;">12. Mehrara, M., Maki, M., & Tavakolian, H. (2010). The relationship between oil revenues and economic growth, using threshold methods (the case of Iran). OPEC Energy Review, 34(1), 1-14.[https://doi.org/10.1111/j.1753-0237.2010.00172.x](https://doi.org/10.1111/j.1753-0237.2010.00172.x)</span>
 
       - layout: left
+        title: Published Papers
+        caption: In Persian
+        #sub_title: In English
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          To see my published papers in Persian, you can see my Persian [CV](https://aris.atu.ac.ir/hossein.tavakolian).
+
+      - layout: left
         title: Books
         #caption: 2010 - 2013
         #sub_title: In English
