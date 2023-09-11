@@ -1,0 +1,20 @@
+/* Change the font size of list items */
+ul, ol {
+    font-size: 16px; /* Adjust the font size to your preference */
+  }
+  
+  /* Change the font size of nested list items */
+  ul ul, ol ol {
+    font-size: 14px; /* Adjust the font size for nested lists */
+  }
+  
+  // _custom.scss
+
+// Target itemized text within a list
+ul {
+    li {
+      // Adjust font size as needed
+      font-size: 22px;
+    }
+  }
+  
