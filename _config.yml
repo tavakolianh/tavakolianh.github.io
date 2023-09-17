@@ -39,10 +39,10 @@ additional_links:
 - title: orcid1.be
   icon: fab fa-orcid
   url: https://orcid.org/0000-0002-7513-6282?lang=en
-- title: researchgate1.be
+- title: researchgate.net
   icon: fab fa-researchgate
   url: https://www.researchgate.net/profile/Hossein-Tavakolian-2
-- title: googlescholar1.be
+- title: scholar.google.com
   icon: fab fa-google
   url: https://scholar.google.com/citations?user=NgTrhd0AAAAJ&hl=en
   
@@ -112,7 +112,7 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          To see my published papers in Persian, you can see my [Persian CV](https://aris.atu.ac.ir/hossein.tavakolian).
+          To access my published Persian papers, please refer to my [Persian CV](https://aris.atu.ac.ir/hossein.tavakolian).
 
       - layout: left
         title: Books
@@ -236,6 +236,22 @@ content:
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
              <span style="font-size: 45px;">.</span><span style="font-size: 16px;">	Senior Researcher.</span>
+
+  - title: HONORS & CERTIFICATES # Title for the section
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      -	The Distinguished Iranian young economist  (Jointly with Sayed Ali Madanizadeh), 2017-2018
+      -	The best book award (DSGE Models in Dynare (Modeling, Solution and Estimation for Iran)) in monetary economics and banking, Central Bank of Iran, 2018.
+      -	Ranking The 3rd best researcher, Allameh Tabataba’i University, 2018
+      -	Ranking The 2nd best researcher, Allameh Tabataba’i University, 2017
+      -	Ranking The 2nd best researcher, Allameh Tabataba’i University, 2016
+      -	Ranking 9th in the nationwide Olympiad of Economics , Summer 2006
+      -	Ranking 8th among nearly 10,000 participants in nationwide Entrance Exam for Economics Master's Degree, Winter 2006
+      -	Ranking 1st among 7 PhD students of economics at University of Tehran
+      -	Ranking 3rd among nearly 120 MS students of economics at University of Tehran
+
+
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
