@@ -216,6 +216,17 @@ content:
         description: | # this will include new lines to allow paragraphs
              <span style="font-size: 45px;">.</span><span style="font-size: 16px;">	Project Manager.</span>
       - layout: left
+        title: LUISS Guido Carli
+        #link: https://www.tse.ir/
+        # link_text: boringcompany.com
+       # sub_title: Part Time
+        caption: February - September 2013
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+             <span style="font-size: 45px;">.</span><span style="font-size: 16px;">	Visiting Professor, Macro Lab.</span>
+
+      - layout: left
         title: Middle East Bank
         #link: https://www.tse.ir/
         # link_text: boringcompany.com
@@ -225,7 +236,7 @@ content:
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
              <span style="font-size: 45px;">.</span><span style="font-size: 16px;">	Economic Advisor and Project Manager.</span>
-  
+
       - layout: left
         title: Monetary and Banking Research Institute
         #link: https://www.tse.ir/
