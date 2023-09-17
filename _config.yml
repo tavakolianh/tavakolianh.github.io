@@ -132,16 +132,39 @@ content:
     content:
       - layout: left
         title: Allameh Tabataba'i University
-        link: https://atu.ac.ir/en
+        link: https://www.emofid.com/
+        # link_text: boringcompany.com
+        sub_title: Full Time
+        caption: June 2021- Present
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+             <span style="font-size: 25px;">.</span><span style="font-size: 20px;"> Associate Professor.</span>
+
+             <span style="font-size: 25px;">.</span><span style="font-size: 20px;"> Director of Commercial Economics, 2020-2022 .</span>
+
+      - layout: left
+        title: Mofid Securities
+        link: https://www.emofid.com/
+        # link_text: boringcompany.com
+        sub_title: Prt Time
+        caption: December 2014 - Present
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+             <span style="font-size: 25px;">.</span><span style="font-size: 20px;">	Director of Macroeconomic Analysis Department.</span>
+
+      - layout: left
+        title: Tehran Securities Exchange
+        link: https://www.tse.ir/
         # link_text: boringcompany.com
         sub_title: Full Time
         caption: December 2014 - Present
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-             <span style="font-size: 20px;">1. Associate Professor.</span>
+             <span style="font-size: 25px;">.</span><span style="font-size: 20px;">	Economic Advisor.</span>
 
-             <span style="font-size: 20px;">1. Director of Commercial Economics, .</span>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
