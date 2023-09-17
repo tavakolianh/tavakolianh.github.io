@@ -132,16 +132,16 @@ content:
     content:
       - layout: left
         title: Allameh Tabataba'i University
-        link: https://www.emofid.com/
+        #link: https://www.emofid.com/
         # link_text: boringcompany.com
-        sub_title: Full Time
+        #sub_title: Full Time
         caption: December 2014 - Present
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-             <span style="font-size: 35px;">.</span><span style="font-size: 20px;"> Associate Professor.</span>
+             <span style="font-size: 45px;">.</span><span style="font-size: 16px;"> Associate Professor.</span>
 
-             <span style="font-size: 35px;">.</span><span style="font-size: 20px;"> Director of Commercial Economics, 2020-2022 .</span>
+             <span style="font-size: 45px;">.</span><span style="font-size: 16px;"> Director of Commercial Economics, 2020-2022 .</span>
 
       - layout: left
         title: Mofid Securities
@@ -152,7 +152,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-             <span style="font-size: 35px;">.</span><span style="font-size: 20px;">	Director of Macroeconomic Analysis Department.</span>
+             <span style="font-size: 45px;">.</span><span style="font-size: 16px;">	Director of Macroeconomic Analysis Department.</span>
 
       - layout: left
         title: Tehran Securities Exchange
@@ -163,7 +163,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-             <span style="font-size: 35px;">.</span><span style="font-size: 20px;">	Economic Advisor.</span>
+             <span style="font-size: 45px;">•</span><span style="font-size: 16px;">	Economic Advisor.</span>
 
       - layout: left
         title: Bank Mellat
@@ -174,8 +174,18 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-             <span style="font-size: 35px;">.</span><span style="font-size: 20px;">	Risk Advisor, Risk Management Department.</span>
+             <span style="font-size: 45px;">•</span><span style="font-size: 16px;">	Risk Advisor, Risk Management Department.</span>
 
+      - layout: left
+        title: Central Bank of IRAN
+        #link: https://www.tse.ir/
+        # link_text: boringcompany.com
+       # sub_title: Part Time
+        caption: 2019 - 2021
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+             <span style="font-size: 45px;">•</span><span style="font-size: 16px;">	Liquidity Committee Member and Senior Economic Consultant.</span>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
