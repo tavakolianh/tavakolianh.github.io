@@ -163,7 +163,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-             <span style="font-size: 45px;">•</span><span style="font-size: 16px;">	Economic Advisor.</span>
+             <span style="font-size: 45px;">.</span><span style="font-size: 16px;">	Economic Advisor.</span>
 
       - layout: left
         title: Bank Mellat
@@ -174,7 +174,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-             <span style="font-size: 45px;">•</span><span style="font-size: 16px;">	Risk Advisor, Risk Management Department.</span>
+             <span style="font-size: 45px;">.</span><span style="font-size: 16px;">	Risk Advisor, Risk Management Department.</span>
 
       - layout: left
         title: Central Bank of IRAN
@@ -185,7 +185,39 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-             <span style="font-size: 16px;"> • Liquidity Committee Member and Senior Economic Consultant.</span>
+             <span style="font-size: 45px;">.</span><span style="font-size: 16px;"> Liquidity Committee Member and Senior Economic Advisor.</span>
+
+      - layout: left
+        title: Planning and Budget Organization
+        #link: https://www.tse.ir/
+        # link_text: boringcompany.com
+       # sub_title: Part Time
+        caption: 2019 - 2021
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+             <span style="font-size: 45px;">.</span><span style="font-size: 16px;">	Project Manager.</span>
+      - layout: left
+        title: Middle East Bank
+        #link: https://www.tse.ir/
+        # link_text: boringcompany.com
+       # sub_title: Part Time
+        caption: 2019 - 2021
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+             <span style="font-size: 45px;">.</span><span style="font-size: 16px;">	Economic Advisor and Project Manager.</span>
+  
+      - layout: left
+        title: Monetary and Banking Research Institute
+        #link: https://www.tse.ir/
+        # link_text: boringcompany.com
+       # sub_title: Part Time
+        caption: 2010 - 2016
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+             <span style="font-size: 45px;">.</span><span style="font-size: 16px;">	Senior Researcher.</span>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
