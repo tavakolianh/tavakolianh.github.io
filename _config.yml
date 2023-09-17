@@ -125,13 +125,31 @@ content:
 
           <span style="font-size: 16px;">2. Mohsen M., Sarem, M., & Tavakolian, H. (2010). Mathematical Economics (A Dynamic Approach). [http://pub.mbri.ac.ir/Pages/BookDetail.aspx?Item_Id=503&Edition_Id=428](http://pub.mbri.ac.ir/Pages/BookDetail.aspx?Item_Id=503&Edition_Id=428)</span>
 
+      - layout: left
+        title: Research Grants
+        #caption: 2010 - 2013
+        #sub_title: In English
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          <span style="font-size: 16px;">1. “COVID-19 Outbreak Forecast in Iran”, Funder: Allameh Tabataba’i University, 2021.</span>
+
+          <span style="font-size: 16px;">2.	“Fiscal Rules in Iran based on Budget Structural Reform”, Funder: Deputy of Economic Affairs, Ministry of Economic Affairs and Finance, 2021.</span>
+
+          <span style="font-size: 16px;">3. “Forecasting Macroeconomic Variables: A DSGE Approach”, Funder: Planning and Budget Organization, 2021.</span>
+
+          <span style="font-size: 16px;">4. “Forecasting Macroeconomic Variables: A DSGE Approach”, Funder: Middle East Bank, 2021.</span>
+
+          <span style="font-size: 16px;">5. “Simulation of Social Security Fund Flows and Probability of its Failure: An OLG Model”, Funder: Social Security Research Institute, Iranian Social Security Organization, 2020. </span>
+
+          <span style="font-size: 16px;">6. “Coordination and Interaction between Fiscal and Monetary Policies: Dynamic Stochastic General Equilibrium and Time-Varying Vector Auto Regressive Approaches”, Funder: Deputy of Economic Affairs, 2019. </span>
 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: <span style="font-size: 20px;">Allameh Tabataba'i University</span>
+        title: Allameh Tabataba'i University
         #link: https://www.emofid.com/
         # link_text: boringcompany.com
         #sub_title: Full Time
