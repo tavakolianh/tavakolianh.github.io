@@ -240,9 +240,9 @@ content:
   - title: HONORS  # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-      -	The Distinguished Iranian young economist  (Jointly with Sayed Ali Madanizadeh), 2017-2018
+      -	The Distinguished Iranian young economist  (Jointly with Sayed Ali Madanizadeh), 2017-2018.
       -	The best book award (DSGE Models in Dynare (Modeling, Solution and Estimation for Iran)) in monetary economics and banking, Central Bank of Iran, 2018.
-      -	Ranked as the 3rd best researcher at Allameh Tabataba’i University in 2017.
+      -	Ranked as the 3rd best researcher at Allameh Tabataba’i University in 2018.
       -	Ranked as the 2nd best researcher at Allameh Tabataba’i University in 2017.
       -	Ranked as the 2nd best researcher at Allameh Tabataba’i University in 2016.
       -	Attained the 9th position in the nationwide Olympiad of Economics in 2006.
@@ -255,16 +255,33 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: University of Tehran
+        caption: 2008 - 2013
+        sub_title: Ph.D. Monetary Economics & Financial Economics
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          <span style="font-size: 16px;">1. Arbabafzali, M., Nadri, K., Tavakolian, H. (2023). Can the transition from Basel II to III change the monetary policy impact on the Iranian economy and banking system? Economic Analysis and Policy, 77, 357-371</span>
+          <span style="font-size: 45px;">.</span><span style="font-size: 16px;"> Thesis title: Rule vs. Discretion in Central Bank Reaction Function: A Comparison of Markov Switching, Kalman Filter and DSGE Approaches. </span>
 
-          <span style="font-size: 16px;">2. Afzali, M. A., Nadri, K., & Tavakolian, H. (2023). Can the transition from Basel II to III change the monetary policy impact on the Iranian economy and banking system?. Economic Analysis and Policy, 77, 357-371.[https://doi.org/10.1016/j.eap.2022.11.018](https://doi.org/10.1016/j.eap.2022.11.018)</span>
+      - layout: left
+        title: University of Tehran
+        caption: 2006 - 2008
+        sub_title: MA  Economics
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          <span style="font-size: 45px;">.</span><span style="font-size: 16px;"> Thesis title: Causality between Inflation, Output, Inflation Uncertainty and Output Uncertainty: A Bivariate GARCH Approach. </span>
 
+      - layout: left
+        title: Shahid Beheshti University 
+        caption: 2002 - 2006
+        sub_title: MA  Economics
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #description: | # this will include new lines to allow paragraphs
+        #   <span style="font-size: 45px;">.</span><span style="font-size: 16px;"> Thesis title: Causality between Inflation, Output, Inflation Uncertainty and Output Uncertainty: A Bivariate GARCH Approach. </span>
+
+  
 
   - title: Teaching # Title for the section
     layout: list # Type of content section (list/text)
