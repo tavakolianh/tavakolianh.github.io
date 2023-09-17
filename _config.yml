@@ -112,7 +112,7 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          To see my published papers in Persian, you can see my Persian [CV](https://aris.atu.ac.ir/hossein.tavakolian).
+          To see my published papers in Persian, you can see my [Persian CV](https://aris.atu.ac.ir/hossein.tavakolian).
 
       - layout: left
         title: Books
