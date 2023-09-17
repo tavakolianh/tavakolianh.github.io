@@ -313,17 +313,17 @@ content:
           <span style="font-size: 14px;">Class Files: [Session1](pdfs/MacroMA4012.pdf), [Session2](pdfs/MacroMA4012.pdf)</span>
 
       - layout: left
-        title: Fall Semester
-        caption: 2023-24
+        title: Spring Semester
+        caption: 2022-23
         #sub_title: In English
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          <span style="font-size: 18px;">1. Advanced Macroeconomics, MA.</span>
+          <span style="font-size: 18px;">1. Advanced Macroeconomics II, MA.</span>
           
           <span style="font-size: 14px;">Class Files: [Session1](pdfs/MacroMA4012.pdf), [Session2](pdfs/MacroMA4012.pdf)</span>
   
-          <span style="font-size: 18px;">1. Monetary Economics, MA.</span>
+          <span style="font-size: 18px;">1. Macroeconomics III, BA.</span>
           
           <span style="font-size: 14px;">Class Files: [Session1](pdfs/MacroMA4012.pdf), [Session2](pdfs/MacroMA4012.pdf)</span>
 
