@@ -185,7 +185,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-             <span style="font-size: 45px;">•</span><span style="font-size: 16px;">	Liquidity Committee Member and Senior Economic Consultant.</span>
+             <span style="font-size: 16px;"> • Liquidity Committee Member and Senior Economic Consultant.</span>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
