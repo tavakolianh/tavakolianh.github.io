@@ -306,11 +306,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           <span style="font-size: 18px;">1. Advanced Macroeconomics, MA.</span>
           
-          <span style="font-size: 14px;">Class Files: [Session1](pdfs/MacroMA4012.pdf), [Session2](pdfs/MacroMA4012.pdf)</span>
+          <span style="font-size: 14px;">Class Files: [Session1](pdfs/Macro_Session01.pdf), </span>
   
           <span style="font-size: 18px;">1. Monetary Economics, MA.</span>
           
-          <span style="font-size: 14px;">Class Files: [Session1](pdfs/MacroMA4012.pdf), [Session2](pdfs/MacroMA4012.pdf)</span>
+          <span style="font-size: 14px;">Class Files: [Session1](pdfs/Money_Session01.pdf), </span>
 
       - layout: left
         title: Spring Semester
